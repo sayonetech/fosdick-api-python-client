@@ -2,9 +2,9 @@ Fosdick python client
 =====================
 
 .. image:: https://img.shields.io/pypi/v/fosdick.svg
-    :target: https://pypi.python.org/pypi/fosdick/1.0.0
+    :target: https://pypi.python.org/pypi/fosdick/2.0.0
 .. image:: https://img.shields.io/pypi/l/fosdick.svg
-    :target: https://pypi.python.org/pypi/fosdick/1.0.0
+    :target: https://pypi.python.org/pypi/fosdick/2.0.0
 
 The Fosdick API Client for Python is a client library for accessing Fosdick APIs.
 
