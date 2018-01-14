@@ -384,8 +384,8 @@ Python 2.6 and 2.7, 3.3, 3.4 & 3.5 are supported.
 Contributors
 ************
 
-- `Rajesh Krishnan P L <https://in.linkedin.com/in/rajesh-krishnan-p-l-60382a125>`_
-- `Abdul Niyas P M <https://github.com/abdulniyaspm1>`_
+- Rajesh Krishnan P L 
+- Abdul Niyas P M
 
 *******
 License
